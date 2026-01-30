@@ -7,7 +7,7 @@ A scratchpad for my sprawling CAN bus control project.
    * <a href="https://www.st.com/en/evaluation-tools/nucleo-g0b1re.html">STM32G0B1 family</a>
    * ESP32-WROOM, -S or -C family
  * Firmware can be customized to role and platform by build flags
- * PDM - Power distribution modules - control loads with switches
+ * PDM - Power distribution module - control loads with switches
    * Mainly smart high-side switches from Infineon
    * Low side switching using protected MOSFets
    * eFuse Current monitoring through the smart switch or board mount sensors
