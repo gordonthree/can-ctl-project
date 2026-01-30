@@ -45,5 +45,6 @@ A scratchpad for my sprawling CAN bus control project.
 ## Hardware:
 * <a href="https://github.com/gordonthree/SW-SMART-SIX-HIGH">Smart six-way high side switch</a>
 * <a href="https://github.com/gordonthree/SW-SMART-TRI-HIGH">Smart three-way high side switch</a>
+* <a href="https://github.com/gordonthree/SW-SMART-DUAL-HIGH">Smart dual high current high side switch</a>
 * <a href="https://github.com/gordonthree/CAN-MULTI-IO-STM32">MultiIO node</a>
 * <a href="https://github.com/gordonthree/CAN-CTL-LIGHTING-STM32">Interior Lighting Controller</a>
